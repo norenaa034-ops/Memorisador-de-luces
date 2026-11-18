@@ -1,0 +1,6 @@
+{
+  "name": "Simón Dice — Arcade de Memoria",
+  "description": "Juego web moderno estilo arcade oscuro de Simón Dice con 4 botones neón, tonos musicales generados con Web Audio API, niveles progresivos y récord en localStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
